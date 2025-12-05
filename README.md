@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Giss Mary Thomas – Instructional Designer & eLearning Developer
 
 Passionate about crafting engaging, results-driven learning experiences that stick. From HR training to interactive Rise modules, I blend learning science (ADDIE, Bloom's) with tools like Articulate 360 to solve real business problems.
+Open to opportunities.
 ## 🚀 Featured Learning Projects
 Explore my hands-on demos— all SCORM-ready and built for L&D impact!
 
