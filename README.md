@@ -9,7 +9,7 @@ Explore my hands-on demos— all SCORM-ready and built for L&D impact!
 |---------|---------|-------------|-----------|
 | ![The One Skill](https://raw.githubusercontent.com/Giss-Mary-Thomas/The-One-Skill-That-Multiplies-All-Others-Learning-How-to-Learn/main/screenshot.png) | **The One Skill That Multiplies All Others**<br>Microlearning on effective learning techniques | [Play Course](https://giss-mary-thomas.github.io/The-One-Skill-That-Multiplies-All-Others-Learning-How-to-Learn/) |
 | ![PowerPoint Makeovers](https://raw.githubusercontent.com/Giss-Mary-Thomas/Quick-PowerPoint-Makeovers-Design-Principles-in-15-Minutes/main/screenshot.png) | **Quick PowerPoint Makeovers**<br>Design tips for L&D pros (15-min module) | [Play Course](https://giss-mary-thomas.github.io/Quick-PowerPoint-Makeovers-Design-Principles-in-15-Minutes/) |
-**Tech Stack**: Articulate Rise/Storyline • Canva • Camtasia • LMS/SCORM • AI Tools  
+**Tech Stack**: Articulate Rise/Storyline • Canva • Vyond • LMS/SCORM • AI Tools  
 **Open to Collabs**: Instructional Design roles? Let's chat! [LinkedIn](https://www.linkedin.com/in/giss-mary-thomas) | 📧 gissmary.madavana@gmail.com
 
 *Last updated: Dec 2025*
