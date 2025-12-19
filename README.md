@@ -49,6 +49,13 @@ A case study PDF exploring how a global bank prepares its workforce for AI and d
 
 *(Created as part of an L&D content project – demonstrates research, writing, and design skills)*
 
+**5 Steps to Build a Successful Employee Training Program**
+A practical guide PDF using the proven ADDIE framework for impactful L&D.
+
+[👀 View PDF](5%20Steps%20to%20Build%20a%20Successful%20Employee%20Training%20Program.pdf)  | [⬇️ Download PDF](https://github.com/Giss-Mary-Thomas/Giss-Mary-Thomas/blob/main/5%20Steps%20to%20Build%20a%20Successful%20Employee%20Training%20Program.pdf)
+
+*(Created as part of an L&D content project – demonstrates research, writing, and design skills)*
+
 **Tech Stack**: Articulate Rise/Storyline • Canva • Vyond • LMS/SCORM • AI Tools  
 **Open to Collabs**: Instructional Design roles? Let's chat! [LinkedIn](https://www.linkedin.com/in/giss-mary-thomas) | 📧 gissmary.madavana@gmail.com
 
