@@ -57,6 +57,7 @@ A practical guide PDF using the proven ADDIE framework for impactful L&D.
 *(Created as part of an L&D content project – demonstrates research, writing, and design skills)*
 
 **Tech Stack**: Articulate Rise/Storyline • Canva • Vyond • LMS/SCORM • AI Tools  
-**Open to Collabs**: Instructional Design roles? Let's chat! [LinkedIn](https://www.linkedin.com/in/giss-mary-thomas) | 📧 gissmary.madavana@gmail.com
+**Open to Collabs**: Instructional Design roles? Let's chat! 
+[LinkedIn](https://www.linkedin.com/in/giss-mary-thomas) | 📧 gissmary.madavana@gmail.com
 
 *Last updated: Dec 2025*
