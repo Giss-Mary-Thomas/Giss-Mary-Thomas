@@ -12,9 +12,42 @@ Explore my hands-on demos— all SCORM-ready and built for L&D impact!
 
 ## 📚 Content Creation Showcase
 
+Explore my L&D case studies and guides – created for work projects and skill-building.
+
+**How Hospitality Companies Transformed Service Quality Across the Sector**  
+A case study PDF on on-the-job microlearning to boost service quality globally.  
+
+[👀 View PDF](How%20Hospitality%20Companies%20Transformed%20Service%20Quality%20Across%20the%20Sector.pdf) | [⬇️ Download PDF](https://github.com/Giss-Mary-Thomas/Giss-Mary-Thomas/raw/main/How%20Hospitality%20Companies%20Transformed%20Service%20Quality%20Across%20the%20Sector.pdf)  
+
+*(Created as part of an L&D content project – demonstrates research, writing, and design skills)*
+
+**TRENDS 2026: Learning as a Strategic Imperative**  
+A forward-looking guide to L&D trends for 2026 – engagement, AI, and growth.  
+
+[👀 View PDF](TRENDS%202026%20LEARNING%20AS%20A%20STRATEGIC%20IMPERATIVE.pdf) | [⬇️ Download PDF](https://github.com/Giss-Mary-Thomas/Giss-Mary-Thomas/raw/main/TRENDS%202026%20LEARNING%20AS%20A%20STRATEGIC%20IMPERATIVE.pdf)  
+
+*(Created as part of an L&D content project – demonstrates research, writing, and design skills)*
+
+**Gagné's Nine Events of Instruction**  
+A complete guide to Gagné’s instructional design model with simple examples.  
+
+[👀 View PDF](Gagné's%20Nine%20Events%20of%20Instruction.pdf) | [⬇️ Download PDF](https://github.com/Giss-Mary-Thomas/Giss-Mary-Thomas/raw/main/Gagné's%20Nine%20Events%20of%20Instruction.pdf)  
+
+*(Created as part of an L&D content project – demonstrates research, writing, and design skills)*
+
+**X-Ray Recruitment**  
+A practical guide to using Google Boolean search for talent sourcing.  
+
+[👀 View PDF](X-Ray%20Recruitment.pdf) | [⬇️ Download PDF](https://github.com/Giss-Mary-Thomas/Giss-Mary-Thomas/raw/main/X-Ray%20Recruitment.pdf)  
+
+*(Created as part of an L&D content project – demonstrates research, writing, and design skills)*
+
 **Standard Chartered: Reskilling for the Future of Finance**  
-A detailed case study PDF I created exploring how a global bank is preparing its workforce for AI and digital transformation in finance.
-[👀 View PDF](Standard%20Chartered%20Reskilling%20for%20the%20Future%20of%20Finance.pdf) | [⬇️ Download PDF](https://github.com/Giss-Mary-Thomas/Giss-Mary-Thomas/raw/main/Standard%20Chartered%20Reskilling%20for%20the%20Future%20of%20Finance.pdf)
+A case study PDF exploring how a global bank prepares its workforce for AI and digital transformation in finance.  
+
+[👀 View PDF](Standard%20Chartered%20Reskilling%20for%20the%20Future%20of%20Finance.pdf) | [⬇️ Download PDF](https://github.com/Giss-Mary-Thomas/Giss-Mary-Thomas/raw/main/Standard%20Chartered%20Reskilling%20for%20the%20Future%20of%20Finance.pdf)  
+
+*(Created as part of an L&D content project – demonstrates research, writing, and design skills)*
 
 **Tech Stack**: Articulate Rise/Storyline • Canva • Vyond • LMS/SCORM • AI Tools  
 **Open to Collabs**: Instructional Design roles? Let's chat! [LinkedIn](https://www.linkedin.com/in/giss-mary-thomas) | 📧 gissmary.madavana@gmail.com
