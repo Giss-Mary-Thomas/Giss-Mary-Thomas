@@ -11,7 +11,7 @@ Explore my hands-on demos— all SCORM-ready and built for L&D impact!
 | ![PowerPoint Makeovers](https://raw.githubusercontent.com/Giss-Mary-Thomas/Quick-PowerPoint-Makeovers-Design-Principles-in-15-Minutes/main/screenshot.png) | **Quick PowerPoint Makeovers**<br>Design tips for L&D pros (15-min module) | [Play Course](https://giss-mary-thomas.github.io/Quick-PowerPoint-Makeovers-Design-Principles-in-15-Minutes/) |
 | ![Handling Workplace Scenarios](https://raw.githubusercontent.com/Giss-Mary-Thomas/HANDLING-WORKPLACE-SCENARIOS-EFFECTIVELY/main/screenshot.png) | **Handling Workplace Scenarios Effectively**<br>Branching scenarios for common workplace challenges | [Play Course](https://giss-mary-thomas.github.io/HANDLING-WORKPLACE-SCENARIOS-EFFECTIVELY/) ||
 
-**Handling Workplace Concerns Effectively**
+Handling Workplace Concerns Effectively
 A scenario-based eLearning project document outlining the design, strategy, and deliverables for a Storyline 360 course on empathetic employee concern handling.
 👀 View PDF | ⬇️ Download PDF
 (Created as part of an L&D project – demonstrates instructional design planning, scenario strategy, and course deliverables)
