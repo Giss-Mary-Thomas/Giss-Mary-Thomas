@@ -23,6 +23,27 @@ Explore my hands-on demos— all SCORM-ready and built for L&D impact!
 
 Explore my L&D case studies and guides – created for work projects and skill-building.
 
+Mayer’s 12 Principles of Multimedia Learning
+A learning design guide PDF explaining Mayer’s evidence-based principles to reduce cognitive overload and improve learning effectiveness.
+
+[👀 View PDF](Mayer’s%2012%20Principles%20of%20Multimedia%20Learning.pdf)  | [⬇️ Download PDF](https://github.com/Giss-Mary-Thomas/Giss-Mary-Thomas/blob/main/Mayer%E2%80%99s%2012%20Principles%20of%20Multimedia%20Learning.pdf)
+
+*(Created as part of an L&D content project – demonstrates instructional design knowledge, simplification of theory, and visual learning principles)*
+
+From a Neighborhood Bakery to a Regional Brand: Navya Bakes
+An MSME success story PDF showcasing sustainable growth, professionalization, and community impact over 35+ years in Kerala.
+
+[👀 View PDF](From%20a%20Neighborhood%20Bakery%20to%20a%20Regional%20Brand%20Navya%20Bakes%20A%2035-Year%20MSME%20Success%20Story%20from%20Kerala.pdf) | [⬇️ Download PDF](https://github.com/Giss-Mary-Thomas/Giss-Mary-Thomas/blob/main/From%20a%20Neighborhood%20Bakery%20to%20a%20Regional%20Brand%20Navya%20Bakes%20A%2035-Year%20MSME%20Success%20Story%20from%20Kerala.pdf)
+
+*(Created as part of an L&D content project – demonstrates case study writing, SME research, and narrative-based learning design)*
+
+Elite Foods & Its Impact on the MSME Ecosystem
+A case study PDF on how a Kerala-based food MSME scaled globally while strengthening India’s MSME distributors, suppliers, and manufacturing ecosystem.
+
+[👀 View PDF](Elite%20Foods%20&%20Its%20Impact%20on%20the%20MSME%20Ecosystem.pdf)  | [⬇️ Download PDF](https://github.com/Giss-Mary-Thomas/Giss-Mary-Thomas/blob/main/Elite%20Foods%20%26%20Its%20Impact%20on%20the%20MSME%20Ecosystem.pdf)
+
+*(Created as part of an L&D content project – demonstrates research, business storytelling, and insight-driven content design skills)*
+
 **How Hospitality Companies Transformed Service Quality Across the Sector**  
 A case study PDF on on-the-job microlearning to boost service quality globally.  
 
