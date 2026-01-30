@@ -54,7 +54,7 @@ A case study PDF on on-the-job microlearning to boost service quality globally.
 **TRENDS 2026: Learning as a Strategic Imperative**  
 A forward-looking guide to L&D trends for 2026 – engagement, AI, and growth.  
 
-[👀 View PDF](TRENDS%202026%20LEARNING%20AS%20A%20STRATEGIC%20IMPERATIVE.pdf) | [⬇️ Download PDF](https://github.com/Giss-Mary-Thomas/Giss-Mary-Thomas/raw/main/TRENDS%202026%20LEARNING%20AS%20A%20STRATEGIC%20IMPERATIVE.pdf)  
+[👀 View PDF](TRENDS%202026%20%20LEARNING%20AS%20A%20STRATEGIC%20IMPERATIVE.pdf) | [⬇️ Download PDF](https://github.com/Giss-Mary-Thomas/Giss-Mary-Thomas/raw/main/TRENDS%202026%20LEARNING%20AS%20A%20STRATEGIC%20IMPERATIVE.pdf)  
 
 *(Created as part of an L&D content project – demonstrates research, writing, and design skills)*
 
